@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"skipped","Thu Dec 01 13:54:15 GMT 2022","Thu Dec 01 13:54:15 GMT 2022","2","Test_Suite_Emulator_Pixel","Tests_on_Emulator_Pixel","com.appium.runners.TestNGRunner_Pixel","com.appium.runners.TestNGRunner_Pixel","scenario","Runs Cucumber Scenarios",""
-"broken","Thu Dec 01 13:54:16 GMT 2022","Thu Dec 01 13:54:16 GMT 2022","0","Test_Suite_Emulator_Pixel","Tests_on_Emulator_Pixel","com.appium.runners.TestNGRunner_Pixel","com.appium.runners.TestNGRunner_Pixel","tearDownClass","tearDownClass",""
-"broken","Thu Dec 01 13:54:15 GMT 2022","Thu Dec 01 13:54:15 GMT 2022","5","Test_Suite_Emulator_Pixel","Tests_on_Emulator_Pixel","com.appium.runners.TestNGRunner_Pixel","com.appium.runners.TestNGRunner_Pixel","setUpClass","setUpClass",""
